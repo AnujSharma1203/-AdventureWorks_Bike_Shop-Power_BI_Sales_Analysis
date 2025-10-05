@@ -1,4 +1,4 @@
-##🚴 AdventureWorks Cycles Business Intelligence Project
+# AdventureWorks Cycles Business Intelligence Project
 
 Role: *Business Intelligence Analyst*
 Goal: *Transform raw data into actionable insights through interactive dashboards and professional-quality reports.*
