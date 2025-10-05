@@ -1,4 +1,4 @@
-# -AdventureWorks Cycles Business Intelligence Project
+# AdventureWorks Cycles Business Intelligence Project
 
 This project simulates the role of a Business Intelligence Analyst for AdventureWorks Cycles, a fictional manufacturing company, with the goal of transforming raw data into actionable insights through professional-quality reports and dashboards. The project covers the full business intelligence workflow, including data preparation, modeling, analysis, visualization, and dashboard design, providing hands-on experience with real-world BI tasks.
 
