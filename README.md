@@ -1,19 +1,54 @@
-# AdventureWorks Cycles Business Intelligence Project
+##🚴 AdventureWorks Cycles Business Intelligence Project
 
-This project simulates the role of a Business Intelligence Analyst for AdventureWorks Cycles, a fictional manufacturing company, with the goal of transforming raw data into actionable insights through professional-quality reports and dashboards. The project covers the full business intelligence workflow, including data preparation, modeling, analysis, visualization, and dashboard design, providing hands-on experience with real-world BI tasks.
+Role: *Business Intelligence Analyst*
+Goal: *Transform raw data into actionable insights through interactive dashboards and professional-quality reports.*
 
-The workflow is structured into four key stages:
+This project replicates a real-world BI workflow, taking you from raw data to impactful business decisions. Built using Power BI, it demonstrates practical skills in data preparation, modeling, analysis, and visualization.
 
-1. Connecting & Shaping Data:
-In this stage, raw datasets from multiple sources are extracted, cleaned, and transformed using Power Query. Key tasks include connecting to databases and web sources, performing table transformations (pivot, unpivot, merge, append), managing data import modes, applying text, numerical, and date/time functions, grouping and aggregating data, and building rolling calendars. QA and profiling tools ensure data accuracy and reliability.
+🔹 Key Highlights
 
-2. Creating a Relational Data Model:
-Here, the focus is on building a robust relational data model using best practices in database design. The project incorporates fact and dimension tables, star and snowflake schemas, primary and foreign keys, relationships with correct cardinality, and active/inactive filters. This stage ensures a strong foundation for complex analytics by managing filter context, bi-directional filtering, hierarchies, and structured model layouts.
+1️⃣ Data Connection & Transformation
 
-3. Adding Calculated Fields with DAX:
-Using Data Analysis Expressions (DAX), calculated columns and measures are created to perform advanced analysis. This includes applying row and filter context, iterator functions, conditional logic, text, date/time, and statistical functions, as well as time intelligence patterns. Measures are optimized for clarity, accuracy, and efficiency in reporting.
+- Automated extraction, cleaning, and transformation using Power Query
 
-4. Visualizing Data with Reports:
-The final stage transforms the data model into interactive dashboards. Visualizations include KPIs, trend lines, tables, matrices, maps, and custom visuals. Advanced features like slicers, bookmarks, drill-throughs, page navigation, tooltips, and mobile layouts enhance interactivity. AI-powered insights using decomposition trees, key influencers, smart narratives, and natural language Q&A are incorporated for deeper analysis.
+- Connected multiple sources: databases, Excel, and web
 
-This project demonstrates the full lifecycle of BI analytics, equipping users with practical skills in data preparation, modeling, DAX, and Power BI visualization. It is designed to replicate professional BI scenarios, making it an excellent portfolio piece for aspiring analysts and data professionals.
+- Applied table transformations, pivot/unpivot, merges, and aggregations
+
+- Ensured data quality with profiling and validation tools
+
+2️⃣ Relational Data Modeling
+
+- Built a robust model with fact & dimension tables
+
+- Designed star & snowflake schemas with proper relationships
+
+- Managed filter context, hierarchies, and bi-directional relationships
+
+- Structured data for optimized reporting and analysis
+
+3️⃣ Advanced Calculations with DAX
+
+- Created calculated columns and measures for deeper insights
+
+- Applied time intelligence, conditional logic, iterators, and statistical functions
+
+- Optimized measures for accuracy and performance
+
+4️⃣ Interactive Reporting & Dashboards
+
+- Developed interactive dashboards with KPIs, trend lines, tables, matrices, and maps
+
+- Added slicers, drill-throughs, bookmarks, custom tooltips, and mobile layouts
+
+- Leveraged AI-powered insights: decomposition trees, key influencers, smart narratives, and natural language Q&A
+
+- Designed for scalability and performance optimization
+
+🌟 Outcome
+
+- Gained hands-on experience in the end-to-end BI lifecycle
+
+- Enabled regional performance comparisons, product-level trend analysis, and identification of high-value customers
+
+- Created a portfolio-ready project demonstrating practical BI, analytics, and visualization skills
